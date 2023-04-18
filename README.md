@@ -1,1 +1,2 @@
 # SliceViewer
+!demo.jpg
