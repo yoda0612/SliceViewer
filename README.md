@@ -1,2 +1,2 @@
 # SliceViewer
-!demo.jpg
+![Demo](demo.jpg)
